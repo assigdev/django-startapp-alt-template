@@ -18,11 +18,11 @@
 
 startapp default:
 
-    $ django-admin.py startapp --template=https://github.com/assigdev/django_alt_start_app_template/archive/master.zip --extension=py,html --name=Procfile project_name
+    $ django-admin.py startapp --template=https://github.com/assigdev/django_alt_start_app_template/archive/master.zip --extension=py,html --name=Procfile app_name
     
 startapp full:
 
-    $ django-admin.py startapp --template=https://github.com/assigdev/django_alt_start_app_template/archive/full.zip --extension=py,html --name=Procfile project_name
+    $ django-admin.py startapp --template=https://github.com/assigdev/django_alt_start_app_template/archive/full.zip --extension=py,html --name=Procfile app_name
 
 OR:
 
