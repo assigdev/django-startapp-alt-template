@@ -1,5 +1,5 @@
-from django.conf.urls import url
-import views
+from django.urls import path
+from . import views
 
 urlpatterns = [
     # path('', views.YourListView.as_view(), name='list'),
